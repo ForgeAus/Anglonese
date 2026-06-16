@@ -8,18 +8,21 @@ An Alternate English using Latikana - Phonetic Edition
 
 ## CORE PHILOSOPHY & OBJECTIVE
 
-Latikana is an alternative 1:1 graphic alphabet for the English/Ingliq language that utilizes Japanese Katakana glyphs that completely untethers Katakana from its traditional Japanese syllabic boundaries.
+Latikana is an alternative 1:1 graphic alphabet for the English/Ingliq language that utilizes Japanese Katakana glyphs that completely untethers
+Katakana from its traditional Japanese syllabic boundaries.
 
 ### The Golden Rule: Zero Epenthetic Vowels
 
-In native Japanese typography, consonants must be bound to a trailing vowel sound. Latikana destroys this constraint. Glyphs represent isolated, raw phonemes. Consonants can be stacked freely (e.g., ST, BR, LNK) without any trailing, dangling, or orphaned vowel noise unlike many other systems of Japanese symbology for English such as Wasei eigo.
+In native Japanese typography, consonants must be bound to a trailing vowel sound. Latikana destroys this constraint
+Glyphs represent isolated, raw phonemes. Consonants can be stacked freely (e.g., ST, BR, LNK) without any trailing, dangling,
+or orphaned vowel noise unlike many other systems of Japanese symbology for English such as Wasei eigo.
 
-## Ingliq equivalents exist for most if not all Latikana characters, they are essentially a different "Face" of each other.  note that long vowels may not work in the same way.
+## There is a partner language called Ingliq to Anglonese that exists with equivalents for most if not all Latikana characters,
+they are essentially a different "Face" of each other.  Note: long vowels may vary.
 
 ---
 
-## 2. THE LATIKANA ALPHABET
- - (27 GLYPHS)
+## 2. THE LATIKANA ALPHABET - (27 GLYPHS)
 
 ### A. Pure Vowels (5/10)
 
@@ -36,7 +39,7 @@ Short O    -> オ (Short 'oh')
 Long O    -> オー Long 'ow')
 
 Short U   ->  ウ (Short 'uh' )
-Long U    ->ウー (Long 'oo')
+Long U    -> ウー (Long 'oo')
 
 ### B. Standard Consonants (17)
 
