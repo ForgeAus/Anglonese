@@ -43,7 +43,7 @@ Long U    -> ウー (Long 'oo')
 
 ### B. Standard Consonants (17)
 
-B         -> ハ
+B         -> バ
 
 C / K    -> ク
 
