@@ -33,7 +33,7 @@ Short E   -> エ (Short 'eh')
 Long E    -> エー (Long 'ee')
 
 Short I    -> イ (Short 'ih' )
-Long I     -> アー  (Long 'eye')
+Long I     -> イー  (Long 'eye')
 
 Short O    -> オ (Short 'oh') 
 Long O    -> オー Long 'ow')
@@ -47,11 +47,11 @@ B         -> バ
 
 C / K    -> ク
 
-D         -> ト
+D         -> ド
 
 F         ->  フ
 
-G         ->  グ  *(Voiced K)*
+G         ->  グ  *(Voiced K)*
 
 H         ->  ヘ
 
